@@ -1,0 +1,1 @@
+system.debug('Hiii Rishi, congratulation for 1st anonymous run in Vscode');
